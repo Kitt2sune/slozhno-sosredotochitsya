@@ -313,6 +313,7 @@ h4.article__title {
 
 
 @media (width >= 1024px) {
+
   .header__theme-menu {
     justify-self: center;
     margin-inline-start: 20px;
